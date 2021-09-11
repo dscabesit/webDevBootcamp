@@ -6,7 +6,7 @@ This repo is for **Web Dev Bootcamp** organised by **GDSC ABESIT**.
 
 1.Clone the repo using `git clone https://github.com/dscabesit/webDevBootcamp.git` command.
 
-2.`cd` to the cloned repo. Then `cd` to `Project` folder.
+2.`cd` to the cloned repo. Then go to `Project` folder.
 
 3.Before pushing any changes use `git pull` so that your cloned local repo is up-to-date with the remote one.
 
