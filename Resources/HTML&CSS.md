@@ -25,3 +25,7 @@ Here are the download links for some of the code editors used in the session.
 [VScode](https://code.visualstudio.com/)
 
 [Pycharm](https://www.jetbrains.com/pycharm/)
+
+### YouTube
+
+Here's our YouTube video of the [HTML&CSS](https://youtu.be/mK5wboFSl4s) session.
