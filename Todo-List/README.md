@@ -6,7 +6,7 @@ On day 4 of Our **WebDevBootcamp** we start with the basics of javascript and th
 
 ## Resources
 
-Here are some of the resources you might find helpful when working with jvascript.
+Here are some of the resources you might find helpful when working with javascript.
 
 * [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
