@@ -10,5 +10,5 @@ On Day 6 of Our **WebDevBootcamp** we discuss about how you can deploy your webs
 
 * But if you want to just get done with your project and look at the docs at some other time be sure to checkout this [README.md](https://github.com/DataCrusade1999/demo).
 
-* Here's the [link]() to the deployed website.
+* Here's the [link](https://prakhar-portfolio.netlify.app/) to the deployed website and the [link](https://github.com/dscabesit/PortfolioWebsite) to the Portfolio website's repo.
 
